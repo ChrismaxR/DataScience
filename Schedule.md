@@ -4,7 +4,9 @@ Sep 29, 2026 · @Chris
 
 ## Overview
 
-The plan works through the seven core chapters of *Understanding Data* in 20 weeks, from 5 October 2026 to mid-February 2027. It takes about 3 hours a week, and each chapter ends with a small Python analysis on real Dutch open data.
+The plan works through the seven core chapters of *Understanding Data* in 20 weeks, from 5 October 2026 to mid-February 2027. It takes about 3 hours a week, and each chapter ends with a small Python/R analysis on real Dutch open data.
+
+Location of book: /Users/home/Desktop/Literatuur/Understanding Data - Garfinkel and Guo 2026.pdf
 
 - **Core chapters:** 1 The Problem with Statistics · 2 Describing and Presenting Data · 3 Probabilities and Hypothesis Testing · 4 Confidence Intervals · 6 Comparing Two Groups · 9 Correlation · 10 Regression. Chapter 5 (Normal Distributions) is skimmed alongside chapter 4.
 - **Time budget:** 3 hours a week in two fixed sessions. That fits around a 32-hour work week and family evenings, without eating a whole weekend.
@@ -101,7 +103,7 @@ Setup fits in one session B, about 90 minutes, on your Mac.
 
 - [x] Buy or borrow the book (check Leiden University Library first: Springer ebooks are often free through a university login)
 - [X] Set up Positron project
-- [ ] Create a GitHub repository for your project
+- [X] Create a GitHub repository for your project
 - [X] Select a prospective Capstone project
 - [x] Book sessions A and B as recurring calendar events through February 2027
 
